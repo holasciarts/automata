@@ -14,5 +14,5 @@ We like using inexpensive tools an materials like cardboard, foam core, straws a
 
 Head over to the [wiki](https://github.com/holasciarts/automata/wiki) for further information and examples. 
 
-This is a project of the [Scientific Arts Department at Heart of Los Angeles](https://www.heartofla.org/scientific-arts/)
+This is a project of the [Scientific Arts Department at Heart of Los Angeles](https://www.heartofla.org/scientific-arts/) for questions and comments send us a message on [Twitter](https://twitter.com/holasciarts), [Instagram](https://www.instagram.com/holasciarts/) or via email ftobon@heartofla.org
 
