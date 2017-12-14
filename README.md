@@ -1,5 +1,7 @@
 # Modular Automata
 
+![isometric box](![](automata/images/isometric-illustration.jpg))
+
 Automata are mechanical devices that imitate life. Building these machines is fun an can teach both adults and children to think about mechanical movements and problemsolving. 
 
 Getting started is sometimes difficult so we created a simple template to get you up and running. It provides a base than can be oriented in different ways depending on the mechanism you are building, and it has multiple aligned points for adding components. This way it serves as an open ended platform for experimentation. 
