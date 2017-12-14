@@ -6,4 +6,4 @@ Getting started is sometimes difficult so we created a simple template to get yo
 
 We like using inexpensive tools an materials like cardboard, foam core, straws and skewers. And we made a template version that can be printed and be cut by hand, and some versions using a CNC cutter or a laser cutter which can be useful if you want to create kits for yourself or your students.
 
-Head over to the wiki[https://github.com/holasciarts/automata/wiki] for further information and examples. 
+Head over to the (wiki)[https://github.com/holasciarts/automata/wiki] for further information and examples. 
