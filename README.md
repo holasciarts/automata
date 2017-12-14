@@ -1,7 +1,7 @@
 # Modular Automata
 
 <p align="center"> 
-![](/automata/raw/master/images/isometric-illustration.jpg)
+![](https://github.com/holasciarts/automata/raw/master/images/isometric-illustration.jpg)
 </p>
 
 
