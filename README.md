@@ -1,9 +1,9 @@
 # Modular Automata
 
-<p align="center"> 
-![](https://github.com/holasciarts/automata/raw/master/images/isometric-illustration.jpg)
-</p>
 
+<p align="center">
+  <img width="300"  src="https://github.com/holasciarts/automata/raw/master/images/isometric-illustration.jpg">
+</p>
 
 
 Automata are mechanical devices that imitate life. Building these machines is fun an can teach both adults and children to think about mechanical movements and problemsolving. 
